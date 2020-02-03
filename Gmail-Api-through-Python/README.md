@@ -32,3 +32,8 @@ The script outputs a dictionary in the following format:
 
 The dictionary can be exported as a .csv or into a databse
 
+'''
+Before running this script, the user should get the authentication by following 
+the link: https://developers.google.com/gmail/api/quickstart/python
+Also, client_secret.json should be saved in the same directory as this file
+'''
