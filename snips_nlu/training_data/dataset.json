@@ -1,0 +1,128 @@
+{
+  "entities": {
+    "object": {
+      "automatically_extensible": true,
+      "data": [],
+      "matching_strictness": 1.0,
+      "use_synonyms": true
+    }
+  },
+  "intents": {
+    "tell_me": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "do you know about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "america"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Tell me about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "computer"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "can you please tell me about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "apple"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "do you have any idea about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "mango"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "what about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "tree"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "do you know about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "america"
+            },
+            {
+              "text": " (computer)"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "tell me about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "bill gates"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "give me information about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "iron man"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "tell me about "
+            },
+            {
+              "entity": "object",
+              "slot_name": "object",
+              "text": "sldfj sdlfkj sldkfj sdlkfjsl  dsfk sldfjl dlf sdl"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "language": "en"
+}

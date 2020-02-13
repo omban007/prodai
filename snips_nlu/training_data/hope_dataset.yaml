@@ -1,0 +1,17 @@
+# turnLightOn intent
+---
+type: intent
+name: tell_me
+slots:
+  - name: object
+    entity: object
+utterances:
+  - do you know about [object](america)
+  - Tell me about [object](computer)
+  - can you please tell me about [object](apple)
+  - do you have any idea about [object](mango)
+  - what about [object](tree)
+  - do you know about [object] (computer)
+  - tell me about [object](bill gates)
+  - give me information about [object](iron man)
+  - tell me about [object](sldfj sdlfkj sldkfj sdlkfjsl  dsfk sldfjl dlf sdl)
