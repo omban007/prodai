@@ -45,7 +45,7 @@ while True:
     mssg_list = None
     time.sleep(4)
 
-    unread_msgs = GMAIL.users().messages().list(userId='me', labelIds=[label_id_one, label_id_two]).execute()
+    unread_msgs = GMAIL.users().messages().list(userId='me', labelIds=[label_id_one]).execute()
 
     # We get a dictonary. Now reading values for the key 'messages'
     if unread_msgs['resultSizeEstimate']:

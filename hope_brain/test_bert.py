@@ -29,17 +29,18 @@ def brain():
     result = engine.parse(text)
 
     if result['intent']['intentName']:
-        question_text = result['slots'][0].get('rawValue')
-        # print(result['slots'][0].get('rawValue'))
+        if result['slots']:
+            question_text = result['slots'][0].get('rawValue')
+            # print(result['slots'][0].get('rawValue'))
 
-        wiki_text = wikipedia.summary(question_text)
-        result = model([wiki_text], [text])
+            wiki_text = wikipedia.summary(question_text)
+            result = model([wiki_text], [text])
 
-        print(result[0][0])
-        tts = gTTS(result[0][0])
+            print(result[0][0])
+            tts = gTTS(result[0][0])
 
-        tts.save('hello.mp3')
-        playsound('hello.mp3')
+            tts.save('hello.mp3')
+            playsound('hello.mp3')
 
 
 if __name__ == "__main__":

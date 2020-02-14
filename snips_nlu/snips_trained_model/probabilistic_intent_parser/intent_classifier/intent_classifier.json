@@ -1,0 +1,81 @@
+{
+  "coeffs": [
+    [
+      -1.2949814394219383,
+      -0.5491813851906637,
+      -0.6669408534394089,
+      -0.4482608313078869,
+      -0.6508076987450682,
+      -0.6439543942913667,
+      -0.5184554080654112,
+      -1.2744655757962633,
+      -0.5726429301631013,
+      -1.2417481629720601,
+      -0.5726429301631013,
+      -3.7898176293548973,
+      -0.6439543942913667,
+      -0.780414597333492,
+      -0.11408447144830544,
+      -0.7231064072702122,
+      -0.08095252137680073,
+      -0.6900946482529463,
+      0.2861384814580731,
+      -0.7058071619314469,
+      -0.6900946482529463,
+      -0.5537355317977504,
+      -1.5266305524001056,
+      1.7904758487867554,
+      -0.5184554080654112,
+      -0.5726429301631013,
+      -0.5726429301631013,
+      -0.5726429301631013,
+      -0.5726429301631013,
+      -0.5726429301631013,
+      -0.5726429301631013,
+      -0.16817286833691777,
+      -1.4206421328837955,
+      2.0721705218779762,
+      -0.6631573900381666,
+      -1.8072830920038496,
+      -0.6248227637226385
+    ]
+  ],
+  "config": {
+    "data_augmentation_config": {
+      "add_builtin_entities_examples": false,
+      "max_unknown_words": null,
+      "min_utterances": 20,
+      "noise_factor": 5,
+      "unknown_word_prob": 0.0,
+      "unknown_words_replacement_string": null
+    },
+    "featurizer_config": {
+      "added_cooccurrence_feature_ratio": 0.0,
+      "cooccurrence_vectorizer_config": {
+        "filter_stop_words": true,
+        "keep_order": true,
+        "unit_name": "cooccurrence_vectorizer",
+        "unknown_words_replacement_string": null,
+        "window_size": null
+      },
+      "pvalue_threshold": 0.4,
+      "tfidf_vectorizer_config": {
+        "unit_name": "tfidf_vectorizer",
+        "use_stemming": false,
+        "word_clusters_name": null
+      },
+      "unit_name": "featurizer"
+    },
+    "noise_reweight_factor": 1,
+    "unit_name": "log_reg_intent_classifier"
+  },
+  "featurizer": "featurizer",
+  "intent_list": [
+    "tell_me",
+    null
+  ],
+  "intercept": [
+    0.8619476998284582
+  ],
+  "t_": 3721.0
+}
