@@ -12,16 +12,16 @@ SCOPES = 'https://www.googleapis.com/auth/gmail.modify'
 user_id = 'me'
 label_id_one = 'INBOX'
 label_id_two = 'UNREAD'
-ROOT_PATH = os.getcwd()
+DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
 class GetGmailData:
 
     def gmail_auth(self):
-        store = file.Storage(ROOT_PATH+'/config_files/storage.json')
+        store = file.Storage(DIR_PATH+'/config_files/storage.json')
         creds = store.get()
         if not creds or creds.invalid:
-            flow = client.flow_from_clientsecrets(ROOT_PATH+'/config_files/credentials.json', SCOPES)
+            flow = client.flow_from_clientsecrets(DIR_PATH+'/config_files/credentials.json', SCOPES)
             creds = tools.run_flow(flow, store)
         GMAIL = discovery.build('gmail', 'v1', http=creds.authorize(Http()))
 
@@ -77,7 +77,7 @@ class GetGmailData:
             except:
                 pass
 
-            print(temp_dict)
+            # print(temp_dict)
             final_list.append(temp_dict)
             if mark_unread:
                 GMAIL.users().messages().modify(userId=user_id, id=m_id, body={'removeLabelIds': ['UNREAD']}).execute()

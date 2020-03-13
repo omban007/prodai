@@ -12,10 +12,10 @@ import dateutil.parser as parser
 
 
 SCOPES = 'https://www.googleapis.com/auth/gmail.modify'
-store = file.Storage('../config_files/storage.json')
+store = file.Storage('../libai_dev/config_files/storage.json')
 creds = store.get()
 if not creds or creds.invalid:
-    flow = client.flow_from_clientsecrets('../config_files/credentials.json', SCOPES)
+    flow = client.flow_from_clientsecrets('../libai_dev/config_files/credentials.json', SCOPES)
     creds = tools.run_flow(flow, store)
 GMAIL = discovery.build('gmail', 'v1', http=creds.authorize(Http()))
 
