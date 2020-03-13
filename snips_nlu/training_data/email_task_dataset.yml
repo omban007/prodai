@@ -1,0 +1,273 @@
+# confirm Intent
+---
+type: intent
+name: confirm
+utterances:
+  - please confirm my meeting [date:snips/datetime](this weekend).
+  - are you confirm coming to party [date:snips/datetime](this weekend).
+  - I need you to confirm this job.
+  - confirm meeting [date:snips/datetime](tomorrow) with David at Delhi.
+  - confirm the place pune.
+  - can you confirm the meeting.
+  - Please confirm the bid prices you provided earlier and I used for the option pricing
+  - can you please confirm [date:snips/datetime](tomorrow's) date for meeting
+  - Please confirm the existence of such a clause  or similar clause in Mr. Fastow's contract that would allow him a claim of additional money from an Enron entity.
+  - Can you please confirm your physical location in the event I will need to visit your stand-alone machine for the StackManager Optimization [date:snips/datetime](this evening).
+  - Sharon, you confirm what contracts Enron Canada Corp. has with them.
+  - Can you confirm what the price is or if there is a special deal [date:snips/datetime](this day)?
+  - confirm that your e-mail address is valid.
+  - I need to to confirm that you got this mail
+  - I will confirm deal numbers with the desk.
+  - Please review this budget and confirm to me your agreement or any changes or additions to it by [date:snips/datetime](3:00 pm today).
+  - confirm all the facts are going to be.
+  - Confirm your Font Awesome Account Email Address.
+  - Confirm purchases and sales of power for Enron Power Marketing.
+  - Can you confirm a price for me?
+  - Can you confirm our price on this deal.
+  - can you confirm the lend and park exposure.
+  - confirm your attendance for [date:snips/datetime](Thursday's) meeting.
+  - please confirm.
+  - Can you confirm a reservation?
+  - Please confirm these balances or let me know what the true imbalances should be since they were not in Unify during this time?
+  - please confirm that  John Sherriff is permitted to sign on behalf of Corp.
+  - Please confirm that the system will not credit an annual allocation to employee vacation balance on [date:snips/datetime](January 1, 2002).
+  - Please confirm.
+  - Mich, can you confirm?
+  - confirm his compensation requirments
+  - Please confirm that when you mention the processing
+  - Could you confirm that Enron does not have
+  - confirm a date and time
+  - Will you please confirm that 2.5 is the correct amount?
+  - I need a confirmation from you that you will be attending
+  - can i get a confirmation about the meeting
+  - Can you confirm that this transaction took place and remained on the books of our US operations?
+  - I need one copy of confirmation
+  - Can you please check on the status of the confirmations for the Reliant/Bank of Montreal Ring Trades.
+  - Please confirm that the confirmations have been reissued
+  - Please confirm under the old deemed ISDAs.
+  - Can you confirm that this would cover Power transactions?
+  - confirm pricing and send in your order by [date:snips/datetime](tomorrow).
+  - Pls confirm that you have received your new WCom calling card.
+  - Can you confirm with the desk?
+  - Also, please confirm your attendance to this meeting by responding to this e:mail.
+  - please reconfirm your participation with me by e-mail
+  - Please send a confirmation
+  - Can you confirm back to me the above comment.
+  - Please confirm and I will set everything up with Stephanie.
+  - Please confirm and I will send out the updates
+  - PS  Please confirm receipt of this message.
+  - Can you confirm that the price is the same direct from the factory or from the distributor?
+  - Can you send me an email confirming receipt by [date:snips/datetime](tomorrow).
+  - Please email to confirm that their changes
+  - Please confirm the correct counterparty name if possible.
+  - Please confirm this and give me a call at your convenience so that we can discuss the logistics of the filing.
+  - Please confirm that we can get this done.
+  - I just wanted to confirm if you could play [date:snips/datetime](Saturday afternoon) at club.
+  - I just wanted to confirm if you could play [date:snips/datetime](Saturday afternoon)
+  - Can you confirm that Capasso, Joe works in your group so i can give them access to the portal
+  - Liz could you please confirm your address especially the zip) for the fedex package.
+  - Please confirm that it meets with your expectations.
+  - Raetta please confirm.
+  - Please confirm via email.
+  - Please call both of them to confirm the interview date.
+  - Email me back to confirm that you got this.
+  - Would you please check the information I have on you and confirm
+  - In order to guarantee your reservation, please confirm as soon as possible
+  - Dennis, please confirm the cancellation of your front-end Sheraton hotel in Rome.
+  - Please confirm that you have what you need by [date:snips/datetime](today).
+  - Would you please confirm with Jake about your early leave.
+  - Please confirm that you are planning to attend your session by responding to this email.
+  - Please go online and fill out the information to confirm your attendance.
+  - Please confirm it is not there as of [date:snips/datetime](today).
+  - Just to confirm the rankings that we discussed on [date:snips/datetime](Friday 1)
+  - Please confirm what time you were able to convene the call.
+  - Can you confirm the details with Jane and drop a email regarding the same
+  - Please confirm your attendance with me.
+  - Could you please confirm the status of the report
+  - Could you please confirm the seating arrangement of the lobby
+  - Can you confirm my flight tickets asap
+  - Can you confirm my dinner reservation at hotel hayat
+  - Can you please confirm the matter in the attachment.
+  - confirm the meeting [date:snips/datetime](tomorrow, (May 15, from 2:00 to 3:00PM)) in Stan Horton's office, EB5020, to go over the Clean Fuels numbers.
+  - Confirm the trip to paris
+  - Would you please email me a blank transaction agreement that ena would use to confirm a enron online type transaction.
+  - Would you confirm the attachements with this email.
+  - Could you review and confirm your details in the form
+  - Please confirm the venue at your earliest.
+
+# send Intent
+---
+type: intent
+name: send
+utterances:
+  - send me a resume [date:snips/datetime](this weekend)
+  - can you please send me your cv on [date:snips/datetime](next tuesday)
+  - please do send me the CV in [date:snips/datetime](five days)
+  - I need to see your profile on [date:snips/datetime](january 6th)
+  - send resume in an email.
+  - Can you send me some other copies?
+  - send us an email with the word "remove" in the subject field.
+  - Can you send me a form of those two agreements.
+  - Will you send us a copy of the termination when it is sent to Grupo MINSA?
+  - Diane, would you please send Valeria the recent article on PRC?
+  - Therefore to reorder, I would need for you to send me an email with your SAP Coding, Business Purpose and Manager Approval.
+  - send your press release to info@rigzone.com or call us at 281-345-4040.
+  - Can you send me a representative copy of a confirm with gtcs for each of the following?
+  - If there are only confirmations for both, please send me a copy of the confirm with GTC's.
+  - Darrell, Jerry and I would like to validate the information prior to forwarding to Mark, so please send me the file and I will coordinate the review.
+  - Can you send me Jim's evaluation form so I can write his midyear review?
+  - When these are ready to go out please send a copy to me so I can advise the counterparties.
+  - Send me a final list of who will be trading on your desk by [date:snips/datetime](this weekend).
+  - Effective immediately, please send all e-mail to my new address at LTracy@enron.com.
+  - Please add and redline the applicable signature blocks for all of the entities in the attached and send it back to me.
+  - We send the results right to your inbox!
+  - send them copies of the Password Application (PA) and Electronic Trading Agreement (ETA).
+  - send me your copy of schender list by today
+  - send me your report by at the end of the week
+  - send me your updates on [date:snips/datetime](next week)
+  - send me your report on [date:snips/datetime](tomorrow morning)
+  - send me your resume on [date:snips/datetime](next week monday at 4 pm)
+  - send me your money by [date:snips/datetime](today or tomorrow)
+  - i want the free videos [date:snips/datetime](before 5 pm tomorrow)
+  - can you please send me your music album [date:snips/datetime](today)
+  - can you please send me your expiration copy [date:snips/datetime](day after tomorrow)
+  - can you please send me your money [date:snips/datetime](after sunday)
+  - can you please send me your resume [date:snips/datetime](today end of the day)
+  - can you please send me your updates [date:snips/datetime](after saturday or before monday)
+  - Can you send me a schedule of the salary and level of everyone in the scheduling group.
+  - Can you send me your address in College Station.
+  - I need two assoc./analyst for the west gas trading desk.
+  - Send his application to Karen Buckley.
+  - If that is what I need to do please send wiring instructions.
+  - I would like to have a copy of the appraisal.
+  - Can you provide me with a copy of the original loan and a copy of the original appraisal.
+  - Can you please get us all the detailed reports and component VAR reports that you can produce?
+  - Please send in different format.
+  - Send to Karen Buckley.
+  - Have him send his resume to Karen Buckley in HR.
+  - Please send the latest cost estimates when you get a chance [date:snips/datetime](this morning).
+  - Diane, Can you send me a template for the search firm MSA?
+  - Please send David Lund copies of our standard corporate services agreement and the standard assignment letter.
+  - Would you please send Rob Cole here at Enron a copy of our letter to EEOC for [date:snips/datetime](April)?
+  - Gary, would you please send me by email the telecommuting policy and the agreement for telecommuters?
+  - send me the pulpex prices by email?
+  - Eugenio, Can you send me the correlations spreadsheet so I can start using it too?
+  - send me that list of companies!
+  - Can you send me a brochure and an application packet?
+  - Monika, Could you send me the Chilean capacity spreadsheet you'd put together?
+  - Can you please send Brattle ppt. attachment one more time? Thanks.
+  - Plz give Dasovich a copy of the talking points for Ken's bb. thanks
+  - Jim give the andersen report to dasovich. i'm in nyc. thanks.
+  - Send news items to editor@venturewire.com.
+  - Send questions, complaints, or service queries to magiccopy@venturewire.co.
+  - please send an e-mail to ft.com.unsubscribe@newsbyemail.ft.com.
+  - Send me a price quote.
+  - Please review MEH presentation and send comments to MEH by [date:snips/datetime](5:00 p.m).
+  - Rick, please send me the schedule so I can foward it on to our lead trader in Japan
+  - please have your assistant send me an e-mail with the dates you will be out and the telephone number where you can be contacted.
+  - Yes, send a resume to Julia Murray.
+  - Send the revised report by e-mail.  Thank you.
+  - please send an e-mail to lyris@lists.michbar.org in this thread.
+  - Any comments please send them to myself and David.
+  - Please send all personal e-mails to michelleeileenhicks@hotmail.com.  Thank you, meh
+  - send me some details for some fun weekend reading.
+  - Pls send me final executed copies of all the Merger related documents ASAP!!
+  - please send me an e-mail to let me know.
+  - Once you get the original back, please send to me for my files.  Mark
+  - Please send me a brief description of what ICor does.
+  - Yes, go ahead and send it to Kevin.
+  - Send the docs to Julia.  Mark
+  - Could you send me the pro forma OATT ?
+  - Please send to sarah dennison leonard the letter.
+  - Can you send me a copy of the final Risk Management Policy that was sent to the board for approval [date:snips/datetime](today).
+  - Please send any revisions to me.  Thanks! Cheryl
+  - Please send me an update when you get a chance. Thanks!
+  - Just send the package to kevin, we just need backup, not pesentations
+  - Can you send mail to Genia?  I did this a.m., but can't anymore!
+  - Can you have someone in your group provide me with copies of the following confirms -  VB7464.1, VC1359.1, VC1330.1
+  - send an email to a lonely American in Germany.
+  - please send me your delivery address so that I can send you the documentation requested in connection.
+  - Judy, Could you please send us a copy of the following executed confirmations.
+  - please send all correspondence concerning problems,  etc., to Pete and also to Paul Jerome.
+  - please resend the video to me.
+  - John, These are the Auto Cadd files to send to Transco.
+  - Please send me your home address for east desk records.
+  - Could you please send a hard copy of the BHP application to Chandler Nicole Hodge.
+  - Forward the application essay to Ryan.
+  - Message me the details of the trip.
+  - Forward the email anyway.
+  - after checking and rechecking you need to message the iternery to Jacob.
+  - send Jason all the greeting cards.
+  - send me some cash.
+  - send Jason all the cash.
+  - Please send me your cash for east desk records.
+
+
+# renew Intent
+---
+type: intent
+name: renew
+utterances:
+  - Please renew the antivirus licence [date:snips/datetime](tomorrow at the evening).
+  - Renew your licence before it expires.
+  - Kindly renew your PF form
+  - Renew and update the following.
+  - I want to renew my software licence by [date:snips/datetime](today).
+  - I wish to renew the documentation.
+  - Could you renew these as soon as you get a chance.
+  - Can you renew the data.
+  - I need you to renew my software licence [date:snips/datetime](today at 8).
+  - show me the renewal date of the software [date:snips/datetime](now).
+  - renew the data.
+  - Please let me know if you are interested in renewing for the [date:snips/datetime](year 2002).
+  - Let us know if you want to renew for the [date:snips/datetime](year 2012).
+  - Please let us know if you want to renew for [date:snips/datetime](this year).
+
+
+# review Intent
+---
+type: intent
+name: review
+utterances:
+  - Please review/comment on the attached presentation by [date:snips/datetime](5pm today).
+  - Please review the file and make the changes in Sitara [date:snips/datetime](today).
+  - I wanted to follow-up with you to check in about your experience.
+  - Please review and give me your comments.
+  - can you review and give me your comments.
+  - Please review the names below.
+  - Please review the attached T&E Policy.
+  - Please review the attached memo.
+  - Approve to review and act upon this request [date:snips/datetime](tomorrow).
+  - Will you take a moment of your time to jot down some feedback on our Google Business Page ?
+  - Would you be willing to leave us a review on Facebook?
+  - Please help us review our customer satisfaction by writing a quick review, we will be extremely grateful.
+  - Just click on the link right below to write a review, it will only take two minutes.
+  - Arnie and Terry, please review and let us know if Operations can comply with our findings.
+  - Please review the itinerary with him, and let me know if I should revert back to them.
+  - Please review the following schedules against the reps and warranties to which they relate and let me know if any changes or updates need to be made.
+
+
+# meet Intent
+---
+type: intent
+name: meet
+slots:
+  - name: date
+    entity: snips/datetime
+utterances:
+  - I am writing to request a meeting with you to discuss the TATA report on [date:snips/datetime](Thursday, October 4, 2001).
+  - I am glad to have received your positive response to the meeting request on [date:snips/datetime](3:45).
+  - This notice is to inform you that there will be a meeting in office on [date:snips/datetime] (3:45).
+  - I would like to request that we schedule a formal meeting at your earliest availability to further discuss.
+  - I can meet with you at around [date:snips/datetime](5:00).
+  - Can you come [date:snips/datetime](Tuesday) at [date:snips/datetime] (3:45) to meet with me?
+  - Kim, can you pick up Chad and meet me there?
+  - Can you come at hearch bakery to meet?
+  - Meet with Julie Gomez, VP of Long-Term Fundamentals-Gas [date:snips/datetime] (3:30-4:30).
+  - Let's meet on [date:snips/datetime](Monday)
+  - Meet at the Briar Club?
+  - Will you meet me there?
+  - Do we need to meet to determine which weights should be amended (or both)?
+  - You can meet us while on the ride if [date:snips/datetime](3:30 p.m. tomorrow (Thursday, August 2, 2001) ) is a bad time,
+  - Hopefully we will meet [date:snips/datetime] (tomorrow) so he can initial and circulate these three documents
+  - If you think it is appropriate to meet to talk about progress, I could come to school anytime this [date:snips/datetime](Friday, February 1) for a conference.
