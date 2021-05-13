@@ -47,7 +47,7 @@ pyasn1-modules==0.2.8
 PyAudio==0.2.11
 pycairo==1.19.0
 pycparser==2.19
-pydantic==0.32.2
+pydantic==1.6.2
 PyGObject==3.34.0
 pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
