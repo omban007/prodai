@@ -74,7 +74,7 @@ tensorflow==1.15.0
 tensorflow-estimator==1.15.1
 termcolor==1.1.0
 tqdm==4.32.2
-urllib3==1.25.8
+urllib3==1.26.5
 uvicorn==0.9.0
 uvloop==0.14.0
 vext==0.7.3
