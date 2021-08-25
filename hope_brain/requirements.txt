@@ -70,7 +70,7 @@ soupsieve==1.9.5
 SpeechRecognition==3.8.1
 starlette==0.12.8
 tensorboard==1.15.0
-tensorflow==1.15.0
+tensorflow==2.5.1
 tensorflow-estimator==1.15.1
 termcolor==1.1.0
 tqdm==4.32.2
